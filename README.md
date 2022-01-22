@@ -168,7 +168,7 @@
 - [적절한 크기 조정: 워크로드에 맞춰 인스턴스를 프로비저닝](https://docs.aws.amazon.com/ko_kr/aws-technical-content/latest/cost-optimization-right-sizing/introduction.html)
 
 
-## 부록
+## 부록!!
 ### 부록1. AWS 공인 솔루션스 아키텍트 – 어소시에이트 : 시험준비 워크샵에서 소개된 링크들
 - [EBS FAQ](https://aws.amazon.com/ebs/faqs/)
 - [백서 – AWS 스토리지 서비스 개요](https://d0.awsstatic.com/whitepapers/Storage/AWS%20Storage%20Services%20Whitepaper-v9.pdf)
